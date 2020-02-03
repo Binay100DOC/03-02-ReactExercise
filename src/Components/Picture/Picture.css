@@ -1,0 +1,10 @@
+.picture-pug{
+    display:flex;
+    width:50%;
+    height:600px;
+    border: 2px solid green;
+}
+
+.picture-pug img{
+    width:100%;
+}
